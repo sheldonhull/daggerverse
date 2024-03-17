@@ -1,7 +1,6 @@
 {
-  "name": "daggerverse",
+  "name": "changie",
   "sdk": "go",
-  "dependencies": [],
   "source": "dagger",
   "engineVersion": "v0.10.2"
 }
