@@ -1,6 +1,11 @@
 {
   "checksums": [
     {
+      "id": "github_release/github.com/dagger/dagger/v0.10.2/dagger_v0.10.2_linux_amd64.tar.gz",
+      "checksum": "83796FCB7DD319832972F5EC9138DB6D344EA12C8D3A4FEF4E6B391DE051D890",
+      "algorithm": "sha256"
+    },
+    {
       "id": "github_release/github.com/goreleaser/goreleaser/v1.24.0/goreleaser_Darwin_all.tar.gz",
       "checksum": "D45D3D736BAE267D74304B3AD933B3221DE8C8F76772EE2A0F8D6EFA5F039D8F",
       "algorithm": "sha256"
